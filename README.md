@@ -7,4 +7,4 @@ type up decription later
 [well fix link later](https://www.google.com)
 
 ## Screenshot
-![alt text](docs\01-html-css-git-homework-demo.png)
+![alt text](docs/01-html-css-git-homework-demo.png)
