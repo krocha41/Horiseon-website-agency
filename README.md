@@ -1,7 +1,7 @@
 # Horiseon Website
 
 ## Description
-type up decription later   
+This is a description of the website   
 
 ## Live Demo
 [View live demo now](https://krocha41.github.io/Horiseon-website-agency/)
